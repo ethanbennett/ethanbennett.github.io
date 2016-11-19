@@ -82,8 +82,6 @@ a:hover {
 .content .title {
   padding: 0 0 0 10%;
   text-align: left;
-  /*max-width: 70%;*/
-  /*font-size: 0.75em;*/
   font-family: 'Bungee Hairline';
   font-size: 1.3em;
 }
@@ -103,7 +101,6 @@ a:hover {
   text-decoration: none;
   margin-top: -30px;
 }
-/*-- Posts --*/
 
 .post {
   padding: 5% 25px;
@@ -130,10 +127,4 @@ a:hover {
   margin: auto;
   max-width: 55%;
   text-align: center;
-}
-
-.arrow:hover {
-    transition-duration: .25s;
-    -webkit-transform: translateX(5%);
-    transform: translateX(5%);
 }
